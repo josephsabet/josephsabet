@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yousef Sami
-### 🚀 Quality Assurance Engineer | Automation Specialist | Bug Hunter
+### 🚀 Quality Assurance Engineer | Automation-Oriented | Bug Hunter | ISTQB® Certified
 ## 💡 About Me
 
 🎓 I'm a Computer Engineering graduate with a strong interest in Software Quality Assurance and Testing.  
@@ -16,8 +16,8 @@
 ### 🛠 Testing Tools & Technologies
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-DD0031?style=flat-square&logo=TestNG&logoColor=white)
+![API Testing](https://img.shields.io/badge/-API_Testing-FF6C37?style=flat-square&logo=api&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=Apache-JMeter&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-000000?style=flat-square&logo=Appium&logoColor=white)
 
@@ -29,6 +29,12 @@
 ### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+
+### 🛠 Tools
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ### ☁ CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
@@ -65,4 +71,4 @@
 ## 📫 Let's Connect
 I'm always open to discussing testing strategies, automation, or potential collaborations. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousef-sami-joseph/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yousef-sami-joseph/)
