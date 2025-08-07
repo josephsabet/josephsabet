@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yousef Sami
+# 👋 Hi, I'm Yousef Sami
 ### 🚀 Quality Assurance Engineer | Automation Specialist | Bug Hunter
 ## 💡 About Me
 
@@ -41,10 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsami&layout=compact&theme=radical)](https://github.com/yousefsami)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yousefsami&theme=onedark)](https://github.com/yousefsami)
-
 ## 📌 Featured Projects
 
 ### 🚀 Test Automation Framework
@@ -69,5 +65,4 @@
 ## 📫 Let's Connect
 I'm always open to discussing testing strategies, automation, or potential collaborations. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_me-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousef-sami-joseph/)
