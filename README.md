@@ -47,10 +47,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsami&layout=compact&theme=radical)](https://github.com/yousefsami)
 
-## 📌 Featured Projects
+## 📌 Recent Projects
 
-### 🚀 Test Automation Framework
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousefsami&repo=test-automation-framework&theme=dark)](https://github.com/yousefsami/test-automation-framework)
+### 🚀 OrangeHRM-functional-Testing-Project [![Readme Card](https://github.com/josephsabet/OrangeHRM-functional-Testing-Project)]
 
 ### 🕵️‍♂️ API Testing Suite
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousefsami&repo=api-testing-suite&theme=dark)](https://github.com/yousefsami/api-testing-suite)
