@@ -41,15 +41,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefsami&show_icons=true&theme=radical)](https://github.com/yousefsami)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefsami&layout=compact&theme=radical)](https://github.com/yousefsami)
-
 ## 📌 Recent Projects
 
-### 🚀 OrangeHRM-functional-Testing-Project [![Readme Card](https://github.com/josephsabet/OrangeHRM-functional-Testing-Project)]
+-[🚀 OrangeHRM-functional-Testing-Project](https://github.com/josephsabet/OrangeHRM-functional-Testing-Project)
 
 ### 🕵️‍♂️ API Testing Suite
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousefsami&repo=api-testing-suite&theme=dark)](https://github.com/yousefsami/api-testing-suite)
@@ -66,6 +60,10 @@
 - Implementing AI in test automation
 - Performance testing at scale
 - Contributing to open-source testing tools
+
+## 📈 GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefsami&theme=redical" alt="GitHub Activity Graph">
+---
 
 ## 📫 Let's Connect
 I'm always open to discussing testing strategies, automation, or potential collaborations. Feel free to reach out!
