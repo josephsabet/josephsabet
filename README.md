@@ -44,9 +44,8 @@
 ## 📌 Recent Projects
 
 -[🚀 OrangeHRM-functional-Testing-Project](https://github.com/josephsabet/OrangeHRM-functional-Testing-Project)
+-[🚀 OrangeHRM-functional-Testing-Project](https://github.com/josephsabet/My-Contact-APIs-Testing-project)
 
-### 🕵️‍♂️ API Testing Suite
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousefsami&repo=api-testing-suite&theme=dark)](https://github.com/yousefsami/api-testing-suite)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
