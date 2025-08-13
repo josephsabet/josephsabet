@@ -42,9 +42,9 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 
 ## 📌 Recent Projects
-
+-[🚀 My-Contact-APIs-Testing-project](https://github.com/josephsabet/My-Contact-APIs-Testing-project)                                            
 -[🚀 OrangeHRM-functional-Testing-Project](https://github.com/josephsabet/OrangeHRM-functional-Testing-Project)
--[🚀 OrangeHRM-functional-Testing-Project](https://github.com/josephsabet/My-Contact-APIs-Testing-project)
+
 
 
 ## 📝 Latest Blog Posts
